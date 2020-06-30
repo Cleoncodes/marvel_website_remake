@@ -1,0 +1,235 @@
+.navbar {
+   background:black;
+   height: 90px;
+   width: 100%;
+
+}
+
+@media (max-width: 720px) {
+    .navbar {
+        background:black; 
+     
+     }
+
+     button {
+         display: block;
+     }
+
+     div li{
+         display: block;
+
+     }
+         
+    img.hero {
+        width: 100%;
+        height: 300px;
+    } 
+         
+    .btnspace {
+        margin-bottom: 80px;
+        
+    }
+
+    .btnspace2 {
+        margin-bottom: 80px;
+    }
+
+     div ul {
+         float: left
+         
+
+     }
+
+     #navbarNav {
+         background-color: black;
+         width: 100%;
+         
+         
+     }
+
+    
+
+    nav a img {
+        width: 220px;
+        height: 60px;   
+    }
+
+   .navbar {
+       height: 80px;
+   }
+
+} 
+
+@media (max-width: 580px) {
+    .navbar {
+        background:black; 
+     
+     }
+
+     button {
+         display: block;
+     }
+
+    nav a img {
+        width: 200px;
+        height: 60px;
+        margin-left: -25px;
+        
+    }
+    
+   .navbar {
+       height: 80px;
+   }
+
+
+}
+
+li.active {
+    text-decoration: underline;
+    color: red;
+}
+
+button img {
+    width: 35px;
+    height: 35px;
+}
+
+div#navbarNav {
+    float: right;
+}
+
+
+.mp-4 {
+    color: white;
+    font-size: 18px;
+    
+}
+
+.mp-5 {
+    margin-top: 30px;
+    color: darkgrey;
+    font-weight: 200;
+    font-size: 19px;
+}
+
+h5 {
+    color: darkgrey;
+}
+
+.btnspace {
+    margin-top: -26px;
+}
+
+a>img  {
+    width: 240px;
+    height: 80px;
+}
+
+li {
+   display: inline;
+   margin: 6px;
+   padding: 6px;
+      
+}
+
+ul {
+    margin-top: 12px;
+    float: right;
+}
+   
+   
+
+li a{
+    color: white;
+    padding: 6px;
+    font-size: large;
+    
+}
+
+
+
+
+p {
+    color: white;
+    margin-top: 20px;
+}
+
+.heading {
+    background: black;
+    
+}
+  
+/* Carousel */
+.carousel-inner {
+    
+    margin-top: 80px;
+
+}
+
+
+.btn {
+    width: 140px;
+    background: red;
+    border-color: red;
+    padding-left: 10px;
+    padding-right: 10px;
+
+   
+}
+
+
+
+
+a#homebutton {
+    width: 180px;
+}
+
+.homeh3 {
+    color: red;
+    font-weight: 300;
+    font-size: 20px;
+    
+}
+
+.row {
+    padding-top: 50px;
+    padding-bottom: 40px;
+
+}
+
+.card {
+    background: black;
+}
+
+.hero{
+    width: 100%;
+    height: 360px;
+}
+
+footer#homefooter {
+    background: black;
+    
+}
+
+div p {
+    
+     color: white;
+     
+   
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-style:normal ;
+    font-weight: 300;
+    
+}
+
+
+
+
+
+.portfolio-item {
+    margin-bottom: 30px;
+
+}
